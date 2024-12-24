@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="white" />
+
+  <!-- New Jersey Outline -->
+  <path d="M200 20 Q210 40, 220 60 Q240 80, 250 120 Q240 160, 230 180 Q220 200, 210 220 Q200 240, 190 260 Q180 280, 170 300 Q160 320, 150 340 Q140 360, 130 380 Q120 360, 110 340 Q100 320, 90 300 Q80 280, 70 260 Q60 240, 50 220 Q40 200, 30 180 Q20 160, 20 120 Q30 80, 50 60 Q70 40, 90 20 Q110 10, 130 20 Z" fill="none" stroke="#000" stroke-width="2" transform="translate(50, 10)" />
+
+  <!-- Heart on the Shore -->
+  <circle cx="250" cy="120" r="10" fill="red" />
+
+  <!-- "Jersey Strong" Text -->
+  <text x="50" y="200" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#000">
+    Jersey
+  </text>
+  <text x="120" y="250" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#000">
+    Strong
+  </text>
+
+  <!-- Decorative Waves -->
+  <path d="M50 300 Q75 320, 100 300 T150 300 T200 300 T250 300 T300 300" stroke="#000" stroke-width="2" fill="none" />
+</svg>
