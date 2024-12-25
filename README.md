@@ -2,6 +2,8 @@
 
 # Make Jersey Great Again
 
+![Jersey Strong](Jersey%20Strong.svg)
+
 The phrase "Make Jersey Great Again" has been utilized in various contexts within New Jersey, reflecting efforts to address political, social, and environmental issues in the state. Here are some notable instances:
 
 **1. Political Advocacy and Grassroots Movements**
